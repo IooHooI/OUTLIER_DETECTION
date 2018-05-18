@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+# PyCharm project files with settings
+.idea
+
+# jupyter notebooks checkpoints
+notebooks/.ipynb_checkpoints
+
