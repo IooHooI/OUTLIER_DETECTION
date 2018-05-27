@@ -6,3 +6,4 @@
 # jupyter notebooks checkpoints
 notebooks/.ipynb_checkpoints
 
+data/datasets/
