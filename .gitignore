@@ -6,4 +6,9 @@
 # jupyter notebooks checkpoints
 notebooks/.ipynb_checkpoints
 
+# data that has been downloaded locally
 data/datasets/
+
+# cache files
+test/code/.cache
+source/code/.cache
