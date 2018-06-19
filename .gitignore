@@ -12,3 +12,9 @@ data/datasets/
 # cache files
 test/code/.cache
 source/code/.cache
+
+source/__pycache__/
+source/code/__pycache__/
+
+test/__pycache__/
+test/code/__pycache__/
