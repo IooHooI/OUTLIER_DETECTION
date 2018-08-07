@@ -109,4 +109,4 @@ venv.bak/
 /notebooks/EXPERIMENTS.ipynb
 /notebooks/.ipynb_checkpoints
 
-/data/dataset
+/data/datasets
